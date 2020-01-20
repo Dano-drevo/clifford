@@ -6,7 +6,7 @@ A numerical geometric algebra module for python. BSD License.
 [![Build Status](https://dev.azure.com/hadfieldhugo/clifford/_apis/build/status/pygae.clifford?branchName=master)](https://dev.azure.com/hadfieldhugo/clifford/_build/latest?definitionId=1&branchName=master)
 [![Documentation Status](https://readthedocs.org/projects/clifford/badge/?version=latest)](http://clifford.readthedocs.io/en/latest/?badge=latest)
 [![codecov](https://codecov.io/gh/pygae/clifford/branch/master/graph/badge.svg)](https://codecov.io/gh/pygae/clifford)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pygae/clifford/master?filepath=examples%2Fg3c.ipynb) 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dano-drevo/clifford/master?filepath=examples/pyganja/00_0AV_semestralny_projekt.ipynb) 
 
 [![DOI](https://zenodo.org/badge/26588915.svg)](https://zenodo.org/badge/latestdoi/26588915)
 
@@ -16,7 +16,7 @@ A numerical geometric algebra module for python. BSD License.
 Quickstart
 --------------
 
-Try out a notebook in [binder](https://mybinder.org/v2/gh/pygae/clifford/master?filepath=examples%2Fg3c.ipynb)
+Try out a notebook in [binder](https://mybinder.org/v2/gh/dano-drevo/clifford/master?filepath=examples/pyganja/00_0AV_semestralny_projekt.ipynb)
 
 Or have a go on your own pc:
 
